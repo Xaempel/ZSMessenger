@@ -1,0 +1,7 @@
+{
+  "name": "zsmessenger",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  }
+}
